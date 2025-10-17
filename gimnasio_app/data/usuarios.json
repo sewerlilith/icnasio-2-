@@ -1,0 +1,67 @@
+[
+    {
+        "nombre": "juan",
+        "edad": 18,
+        "peso": 34.0,
+        "altura": 160.0,
+        "genero": "masculino"
+    },
+    {
+        "nombre": "ola",
+        "edad": 1231,
+        "peso": 122.0,
+        "altura": 187.0,
+        "genero": "masculino"
+    },
+    {
+        "nombre": "el pepe",
+        "edad": 28,
+        "peso": 78.0,
+        "altura": 178.0,
+        "genero": "masculino"
+    },
+    {
+        "nombre": "dios",
+        "edad": 21,
+        "peso": 78.0,
+        "altura": 178.0,
+        "genero": "masculino"
+    },
+    {
+        "nombre": "santiago",
+        "edad": 19,
+        "peso": 78.0,
+        "altura": 178.0,
+        "genero": "femenino"
+    },
+    {
+        "nombre": "ola",
+        "edad": 12,
+        "peso": 290.0,
+        "altura": 23.0,
+        "genero": "masculino"
+    },
+    {
+        "nombre": "asdas",
+        "edad": 234,
+        "peso": 223.0,
+        "altura": 23423.0,
+        "genero": "masculino"
+    },
+    {
+        "nombre": "ola",
+        "edad": 34,
+        "peso": 70.0,
+        "altura": 180.0,
+        "genero": "masculino",
+        "objetivo": "tonificar"
+    },
+    {
+        "nombre": "jesus",
+        "edad": 33,
+        "peso": 80.0,
+        "altura": 170.0,
+        "genero": "masculino",
+        "objetivo": "bajar_peso"
+    }
+]

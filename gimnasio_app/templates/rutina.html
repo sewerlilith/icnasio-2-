@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tu Rutina - FitLife</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h2>Rutina de {{ usuario['nombre'] }}</h2>
+        <p><strong>Objetivo:</strong> {{ usuario['objetivo'].replace('_', ' ').title() }}</p>
+        <p><strong>Días:</strong> {{ dias }}</p>
+        <hr>
+
+        {% for dia, ejercicios in rutina.items() %}
+            <h3>{{ dia }}</h3>
+            <ul>
+                {% for ejercicio in ejercicios %}
+                    <li>{{ ejercicio }}</li>
+                {% endfor %}
+            </ul>
+        {% endfor %}
+
+        <a class="btn" href="{{ url_for('index') }}">Volver al inicio</a>
+    </div>
+</body>
+</html>

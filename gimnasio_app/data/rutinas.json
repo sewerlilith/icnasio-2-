@@ -1,0 +1,372 @@
+[
+    {
+        "usuario": "juan",
+        "objetivo": "volumen",
+        "rutina": [
+            "Curl de bíceps",
+            "Press militar",
+            "Press de banca"
+        ]
+    },
+    {
+        "usuario": "ola",
+        "objetivo": "volumen",
+        "rutina": {
+            "Día 1": [
+                "Prensa de piernas",
+                "Remo en polea baja",
+                "Peso muerto"
+            ],
+            "Día 2": [
+                "Press militar",
+                "Sentadilla libre",
+                "Prensa de piernas"
+            ],
+            "Día 3": [
+                "Extensión de tríceps",
+                "Prensa de piernas",
+                "Fondos en paralelas"
+            ]
+        }
+    },
+    {
+        "usuario": "ola",
+        "objetivo": "volumen",
+        "rutina": {
+            "Día 1": [
+                "Elevaciones laterales",
+                "Press de banca",
+                "Peso muerto"
+            ],
+            "Día 2": [
+                "Fondos en paralelas",
+                "Press de banca",
+                "Elevaciones laterales"
+            ],
+            "Día 3": [
+                "Sentadilla libre",
+                "Press de banca",
+                "Fondos en paralelas"
+            ]
+        }
+    },
+    {
+        "usuario": "el pepe",
+        "objetivo": "definicion",
+        "rutina": {
+            "Día 1": [
+                "Tríceps kickback con mancuernas",
+                "Elevaciones laterales",
+                "Fondos en paralelas"
+            ],
+            "Día 2": [
+                "Bicicleta abdominal",
+                "Sentadilla con salto",
+                "Mountain climbers"
+            ],
+            "Día 3": [
+                "Zancadas",
+                "Crunch abdominal",
+                "Press militar"
+            ],
+            "Día 4": [
+                "Flexiones diamantadas",
+                "Escaladores cruzados",
+                "Plancha con toque de hombros"
+            ],
+            "Día 5": [
+                "Tríceps kickback con mancuernas",
+                "Escaladores cruzados",
+                "Flexiones diamantadas"
+            ],
+            "Día 6": [
+                "Elevaciones laterales",
+                "Fondos en paralelas",
+                "Crunch abdominal"
+            ],
+            "Día 7": [
+                "Plancha con toque de hombros",
+                "Zancadas",
+                "Mountain climbers"
+            ]
+        }
+    },
+    {
+        "usuario": "dios",
+        "objetivo": "volumen",
+        "rutina": {
+            "Día 1": [
+                "Press de banca",
+                "Prensa de piernas",
+                "Curl de bíceps"
+            ],
+            "Día 2": [
+                "Dominadas",
+                "Fondos en paralelas",
+                "Elevaciones laterales"
+            ],
+            "Día 3": [
+                "Remo en polea baja",
+                "Sentadilla libre",
+                "Press militar"
+            ]
+        }
+    },
+    {
+        "usuario": "santiago",
+        "objetivo": "definicion",
+        "rutina": {
+            "Día 1": [
+                "Plancha con toque de hombros",
+                "Elevaciones laterales",
+                "Mountain climbers"
+            ],
+            "Día 2": [
+                "Bicicleta abdominal",
+                "Flexiones diamantadas",
+                "Fondos en paralelas"
+            ],
+            "Día 3": [
+                "Escaladores cruzados",
+                "Tríceps kickback con mancuernas",
+                "Sentadilla con salto"
+            ],
+            "Día 4": [
+                "Press militar",
+                "Zancadas",
+                "Crunch abdominal"
+            ]
+        }
+    },
+    {
+        "usuario": "ola",
+        "objetivo": "definicion",
+        "rutina": {
+            "Día 1": [
+                "Press militar",
+                "Sentadilla con salto",
+                "Tríceps kickback con mancuernas"
+            ],
+            "Día 2": [
+                "Bicicleta abdominal",
+                "Crunch abdominal",
+                "Zancadas"
+            ],
+            "Día 3": [
+                "Plancha con toque de hombros",
+                "Elevaciones laterales",
+                "Flexiones diamantadas"
+            ]
+        }
+    },
+    {
+        "usuario": "asdas",
+        "objetivo": "bajar_peso",
+        "rutina": {
+            "Día 1": [
+                "Escaladores",
+                "Cinta de correr",
+                "Burpees"
+            ],
+            "Día 2": [
+                "Bicicleta estática",
+                "Sentadillas",
+                "Plancha"
+            ]
+        }
+    },
+    {
+        "usuario": "ola",
+        "objetivo": "tonificar",
+        "dias": 6,
+        "rutina": {
+            "Día 1": [
+                "Burpees",
+                "Step-ups",
+                "Crunch abdominal"
+            ],
+            "Día 2": [
+                "Fondos",
+                "Curl de bíceps",
+                "Mountain climbers"
+            ],
+            "Día 3": [
+                "Remo en máquina",
+                "Elevaciones laterales",
+                "Plancha"
+            ],
+            "Día 4": [
+                "Press militar",
+                "Zancadas",
+                "Cinta de correr"
+            ],
+            "Día 5": [
+                "Plancha",
+                "Press militar",
+                "Fondos"
+            ],
+            "Día 6": [
+                "Cinta de correr",
+                "Burpees",
+                "Step-ups"
+            ]
+        }
+    },
+    {
+        "usuario": "jesus",
+        "objetivo": "bajar_peso",
+        "dias": 2,
+        "rutina": {
+            "Día 1": [
+                "Sprints cortos",
+                "Remo en máquina",
+                "Jump lunges"
+            ],
+            "Día 2": [
+                "High knees",
+                "Zancadas",
+                "Sentadillas"
+            ]
+        }
+    },
+    {
+        "usuario": "jesus",
+        "objetivo": "bajar_peso",
+        "dias": 4,
+        "rutina": {
+            "Día 1": [
+                "Step-ups",
+                "Cinta de correr",
+                "Shadow boxing"
+            ],
+            "Día 2": [
+                "High knees",
+                "Mountain climbers",
+                "Escaladores"
+            ],
+            "Día 3": [
+                "Saltar la cuerda",
+                "Plancha",
+                "Burpees"
+            ],
+            "Día 4": [
+                "Box jumps",
+                "Jumping jacks",
+                "Zancadas"
+            ]
+        }
+    },
+    {
+        "usuario": "jesus",
+        "objetivo": "bajar_peso",
+        "dias": 2,
+        "rutina": {
+            "Día 1": [
+                "Mountain climbers",
+                "Remo en máquina",
+                "Bicicleta estática"
+            ],
+            "Día 2": [
+                "Jump lunges",
+                "Skipping",
+                "Kettlebell swings"
+            ]
+        }
+    },
+    {
+        "usuario": "jesus",
+        "objetivo": "bajar_peso",
+        "dias": 5,
+        "rutina": {
+            "Día 1": [
+                "Mountain climbers",
+                "Plancha",
+                "Kettlebell swings"
+            ],
+            "Día 2": [
+                "Remo en máquina",
+                "Zancadas",
+                "Cinta de correr"
+            ],
+            "Día 3": [
+                "Russian twists",
+                "Sentadillas",
+                "Skipping"
+            ],
+            "Día 4": [
+                "Shadow boxing",
+                "Step-ups",
+                "Jumping jacks"
+            ],
+            "Día 5": [
+                "Saltar la cuerda",
+                "High knees",
+                "Box jumps"
+            ]
+        }
+    },
+    {
+        "usuario": "jesus",
+        "objetivo": "bajar_peso",
+        "dias": 4,
+        "rutina": {
+            "Día 1": [
+                "Zancadas",
+                "Russian twists",
+                "Burpees"
+            ],
+            "Día 2": [
+                "Jumping jacks",
+                "Cinta de correr",
+                "Mountain climbers"
+            ],
+            "Día 3": [
+                "Escaladores",
+                "Box jumps",
+                "Plancha"
+            ],
+            "Día 4": [
+                "Step-ups",
+                "Kettlebell swings",
+                "Sentadillas"
+            ]
+        }
+    },
+    {
+        "usuario": "jesus",
+        "objetivo": "bajar_peso",
+        "dias": 6,
+        "rutina": {
+            "Día 1": [
+                "Escaladores",
+                "Kettlebell swings",
+                "Cinta de correr"
+            ],
+            "Día 2": [
+                "Bicicleta estática",
+                "Sentadillas",
+                "Jumping jacks"
+            ],
+            "Día 3": [
+                "Box jumps",
+                "Remo en máquina",
+                "Burpees"
+            ],
+            "Día 4": [
+                "Skipping",
+                "Sprints cortos",
+                "Shadow boxing"
+            ],
+            "Día 5": [
+                "Saltar la cuerda",
+                "Zancadas",
+                "Plancha"
+            ],
+            "Día 6": [
+                "Mountain climbers",
+                "Step-ups",
+                "Russian twists"
+            ]
+        }
+    }
+]
