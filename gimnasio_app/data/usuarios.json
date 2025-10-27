@@ -63,5 +63,61 @@
         "altura": 170.0,
         "genero": "masculino",
         "objetivo": "bajar_peso"
+    },
+    {
+        "nombre": "as",
+        "edad": 16,
+        "peso": 70.0,
+        "altura": 170.0,
+        "genero": "masculino",
+        "objetivo": "volumen"
+    },
+    {
+        "nombre": "ola",
+        "edad": 18,
+        "peso": 90.0,
+        "altura": 180.0,
+        "genero": "masculino",
+        "objetivo": "bajar_peso"
+    },
+    {
+        "nombre": "ola",
+        "edad": 18,
+        "peso": 70.0,
+        "altura": 180.0,
+        "genero": "masculino",
+        "objetivo": "definicion"
+    },
+    {
+        "nombre": "sada",
+        "edad": 23,
+        "peso": 70.0,
+        "altura": 70.0,
+        "genero": "masculino",
+        "objetivo": "volumen"
+    },
+    {
+        "nombre": "kasjda",
+        "edad": 19,
+        "peso": 70.0,
+        "altura": 160.0,
+        "genero": "masculino",
+        "objetivo": "bajar_peso"
+    },
+    {
+        "nombre": "sadqas",
+        "edad": 19,
+        "peso": 190.0,
+        "altura": 180.0,
+        "genero": "femenino",
+        "objetivo": "definicion"
+    },
+    {
+        "nombre": "ola",
+        "edad": 16,
+        "peso": 50.0,
+        "altura": 160.0,
+        "genero": "femenino",
+        "objetivo": "volumen"
     }
 ]

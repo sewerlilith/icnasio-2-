@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Tu Rutina - FitLife</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
     <div class="container">
@@ -11,12 +10,31 @@
         <p><strong>Objetivo:</strong> {{ usuario['objetivo'].replace('_', ' ').title() }}</p>
         <p><strong>Días:</strong> {{ dias }}</p>
         <hr>
+        {% if bmi is not none %}
+            <p><strong>IMC (BMI):</strong> {{ bmi }} {% if bmi_category %}- {{ bmi_category }}{% endif %}</p>
+        {% endif %}
 
-        {% for dia, ejercicios in rutina.items() %}
+    {% set placeholder_url = url_for('static', filename='placeholder.svg') %}
+    {% for dia, ejercicios in rutina.items() %}
             <h3>{{ dia }}</h3>
-            <ul>
+            <ul class="ejercicios-list">
                 {% for ejercicio in ejercicios %}
-                    <li>{{ ejercicio }}</li>
+                    <li class="ejercicio-item">
+                        {% if ejercicio is mapping %}
+                            {% set img = ejercicio.get('image') %}
+                            {% if img %}
+                                <img loading="lazy" src="{{ url_for('static', filename=img) }}" alt="{{ ejercicio['name'] }}" class="ej-img" onerror="this.onerror=null;this.src='{{ placeholder_url }}'" width="300">
+                            {% endif %}
+                            <div>
+                                <span class="ej-name">{{ ejercicio['name'] }}</span>
+                                {% if ejercicio.get('series') %}
+                                    <div class="ej-sets">{{ ejercicio['series'] }} x {{ ejercicio['reps'] }} {{ ejercicio.get('reps_unit', '') }}</div>
+                                {% endif %}
+                            </div>
+                        {% else %}
+                            <span>{{ ejercicio }}</span>
+                        {% endif %}
+                    </li>
                 {% endfor %}
             </ul>
         {% endfor %}

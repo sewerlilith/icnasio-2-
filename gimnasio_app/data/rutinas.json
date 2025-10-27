@@ -368,5 +368,1785 @@
                 "Russian twists"
             ]
         }
+    },
+    {
+        "usuario": "as",
+        "objetivo": "volumen",
+        "dias": 4,
+        "rutina": {
+            "Día 1": [
+                "Elevaciones laterales",
+                "Face pulls",
+                "Pull-over"
+            ],
+            "Día 2": [
+                "Hip thrust",
+                "Dips",
+                "Remo en polea baja"
+            ],
+            "Día 3": [
+                "Peso muerto",
+                "Sentadilla libre",
+                "Chest fly"
+            ],
+            "Día 4": [
+                "Dominadas",
+                "Farmer's walk",
+                "Press de banca"
+            ]
+        }
+    },
+    {
+        "usuario": "as",
+        "objetivo": "volumen",
+        "dias": 7,
+        "rutina": {
+            "Día 1": [
+                "Prensa de piernas",
+                "Peso muerto",
+                "Press militar"
+            ],
+            "Día 2": [
+                "Fondos en paralelas",
+                "Remo en polea baja",
+                "Press de banca"
+            ],
+            "Día 3": [
+                "Dominadas",
+                "Dips",
+                "Elevaciones laterales"
+            ],
+            "Día 4": [
+                "Pull-over",
+                "Face pulls",
+                "Split squat"
+            ],
+            "Día 5": [
+                "Sentadilla libre",
+                "Farmer's walk",
+                "Curl de bíceps"
+            ],
+            "Día 6": [
+                "Hip thrust",
+                "Remo con barra",
+                "Good mornings"
+            ],
+            "Día 7": [
+                "Dominadas",
+                "Press de banca",
+                "Remo con barra"
+            ]
+        }
+    },
+    {
+        "usuario": "as",
+        "objetivo": "volumen",
+        "dias": 3,
+        "rutina": {
+            "Día 1": [
+                "Elevaciones laterales",
+                "Curl de bíceps",
+                "Remo en polea baja"
+            ],
+            "Día 2": [
+                "Press militar",
+                "Face pulls",
+                "Good mornings"
+            ],
+            "Día 3": [
+                "Peso muerto",
+                "Dominadas",
+                "Dips"
+            ]
+        }
+    },
+    {
+        "usuario": "as",
+        "objetivo": "volumen",
+        "dias": 3,
+        "rutina": {
+            "Día 1": [
+                "Remo con barra",
+                "Dips",
+                "Dominadas"
+            ],
+            "Día 2": [
+                "Peso muerto",
+                "Face pulls",
+                "Split squat"
+            ],
+            "Día 3": [
+                "Curl de bíceps",
+                "Good mornings",
+                "Chest fly"
+            ]
+        }
+    },
+    {
+        "usuario": "ola",
+        "objetivo": "bajar_peso",
+        "dias": 4,
+        "rutina": {
+            "Día 1": [
+                "High knees",
+                "Mountain climbers",
+                "Jump lunges"
+            ],
+            "Día 2": [
+                "Skipping",
+                "Zancadas",
+                "Cinta de correr"
+            ],
+            "Día 3": [
+                "Burpees",
+                "Bicicleta estática",
+                "Saltar la cuerda"
+            ],
+            "Día 4": [
+                "Jumping jacks",
+                "Box jumps",
+                "Plancha"
+            ]
+        }
+    },
+    {
+        "usuario": "ola",
+        "objetivo": "bajar_peso",
+        "dias": 4,
+        "rutina": {
+            "Día 1": [
+                "Saltar la cuerda",
+                "Cinta de correr",
+                "Sprints cortos"
+            ],
+            "Día 2": [
+                "High knees",
+                "Burpees",
+                "Jumping jacks"
+            ],
+            "Día 3": [
+                "Bicicleta estática",
+                "Jump lunges",
+                "Russian twists"
+            ],
+            "Día 4": [
+                "Mountain climbers",
+                "Remo en máquina",
+                "Skipping"
+            ]
+        }
+    },
+    {
+        "usuario": "ola",
+        "objetivo": "bajar_peso",
+        "dias": 6,
+        "rutina": {
+            "Día 1": [
+                "Sentadillas",
+                "Shadow boxing",
+                "Skipping"
+            ],
+            "Día 2": [
+                "Step-ups",
+                "Burpees",
+                "Sprints cortos"
+            ],
+            "Día 3": [
+                "Cinta de correr",
+                "Jump lunges",
+                "Mountain climbers"
+            ],
+            "Día 4": [
+                "Zancadas",
+                "Box jumps",
+                "Plancha"
+            ],
+            "Día 5": [
+                "Jumping jacks",
+                "Bicicleta estática",
+                "Remo en máquina"
+            ],
+            "Día 6": [
+                "Kettlebell swings",
+                "Russian twists",
+                "Saltar la cuerda"
+            ]
+        }
+    },
+    {
+        "usuario": "ola",
+        "objetivo": "bajar_peso",
+        "dias": 5,
+        "rutina": {
+            "Día 1": [
+                "Escaladores",
+                "Mountain climbers",
+                "Kettlebell swings"
+            ],
+            "Día 2": [
+                "Russian twists",
+                "High knees",
+                "Plancha"
+            ],
+            "Día 3": [
+                "Saltar la cuerda",
+                "Jumping jacks",
+                "Skipping"
+            ],
+            "Día 4": [
+                "Cinta de correr",
+                "Shadow boxing",
+                "Sprints cortos"
+            ],
+            "Día 5": [
+                "Remo en máquina",
+                "Jump lunges",
+                "Step-ups"
+            ]
+        }
+    },
+    {
+        "usuario": "ola",
+        "objetivo": "bajar_peso",
+        "dias": 6,
+        "rutina": {
+            "Día 1": [
+                "Sentadillas",
+                "Sprints cortos",
+                "Mountain climbers"
+            ],
+            "Día 2": [
+                "Russian twists",
+                "Remo en máquina",
+                "Kettlebell swings"
+            ],
+            "Día 3": [
+                "Shadow boxing",
+                "Jumping jacks",
+                "Step-ups"
+            ],
+            "Día 4": [
+                "Burpees",
+                "Skipping",
+                "Bicicleta estática"
+            ],
+            "Día 5": [
+                "Plancha",
+                "Jump lunges",
+                "Box jumps"
+            ],
+            "Día 6": [
+                "High knees",
+                "Cinta de correr",
+                "Zancadas"
+            ]
+        }
+    },
+    {
+        "usuario": "ola",
+        "objetivo": "definicion",
+        "dias": 3,
+        "rutina": {
+            "Día 1": [
+                "Tríceps kickback con mancuernas",
+                "Box jumps explosivos",
+                "Plank jacks"
+            ],
+            "Día 2": [
+                "Crunch abdominal",
+                "Jump rope double unders",
+                "Elevaciones laterales"
+            ],
+            "Día 3": [
+                "Burpees con salto",
+                "Renegade rows",
+                "Fondos en paralelas"
+            ]
+        }
+    },
+    {
+        "usuario": "ola",
+        "objetivo": "definicion",
+        "dias": 3,
+        "rutina": {
+            "Día 1": [
+                "Fondos en paralelas",
+                "Sentadilla con salto",
+                "Jump rope double unders"
+            ],
+            "Día 2": [
+                "Mountain climbers",
+                "Press militar",
+                "Elevaciones laterales"
+            ],
+            "Día 3": [
+                "Burpees con salto",
+                "Escaladores cruzados",
+                "Bicicleta abdominal"
+            ]
+        }
+    },
+    {
+        "usuario": "ola",
+        "objetivo": "definicion",
+        "dias": 5,
+        "rutina": {
+            "Día 1": [
+                "Flexiones diamantadas",
+                "Bicicleta abdominal",
+                "Burpees con salto"
+            ],
+            "Día 2": [
+                "Escaladores cruzados",
+                "Zancadas",
+                "Plancha con toque de hombros"
+            ],
+            "Día 3": [
+                "Hollow holds",
+                "Sentadilla con salto",
+                "Press militar"
+            ],
+            "Día 4": [
+                "Lateral bounds",
+                "Renegade rows",
+                "Plank jacks"
+            ],
+            "Día 5": [
+                "Tríceps kickback con mancuernas",
+                "Russian twists con peso",
+                "Box jumps explosivos"
+            ]
+        }
+    },
+    {
+        "usuario": "sada",
+        "objetivo": "volumen",
+        "dias": 4,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Dips",
+                    "zone": "pecho",
+                    "image": "dips.png",
+                    "series": 4,
+                    "reps": 9,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Fondos en paralelas",
+                    "zone": "pecho",
+                    "image": "fondos_en_paralelas.png",
+                    "series": 4,
+                    "reps": 9,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Chest fly",
+                    "zone": "pecho",
+                    "image": "chest_fly.png",
+                    "series": 4,
+                    "reps": 7,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Remo con barra",
+                    "zone": "espalda",
+                    "image": "remo_con_barra.png",
+                    "series": 4,
+                    "reps": 8,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Dominadas",
+                    "zone": "espalda",
+                    "image": "dominadas.png",
+                    "series": 4,
+                    "reps": 12,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Peso muerto",
+                    "zone": "espalda",
+                    "image": "peso_muerto.png",
+                    "series": 4,
+                    "reps": 6,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 3": [
+                {
+                    "name": "Split squat",
+                    "zone": "piernas",
+                    "image": "split_squat.png",
+                    "series": 4,
+                    "reps": 10,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Prensa de piernas",
+                    "zone": "piernas",
+                    "image": "prensa_de_piernas.png",
+                    "series": 4,
+                    "reps": 7,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Sentadilla libre",
+                    "zone": "piernas",
+                    "image": "sentadilla_libre.png",
+                    "series": 4,
+                    "reps": 6,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 4": [
+                {
+                    "name": "Extensión de tríceps",
+                    "zone": "brazos",
+                    "image": "extension_de_triceps.png",
+                    "series": 4,
+                    "reps": 8,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Extensión de tríceps",
+                    "zone": "brazos",
+                    "image": "extension_de_triceps.png",
+                    "series": 4,
+                    "reps": 7,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Curl de bíceps",
+                    "zone": "brazos",
+                    "image": "curl_de_biceps.png",
+                    "series": 4,
+                    "reps": 11,
+                    "reps_unit": "reps"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "kasjda",
+        "objetivo": "bajar_peso",
+        "dias": 4,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Saltar la cuerda",
+                    "zone": "cardio",
+                    "image": "saltar_la_cuerda.png",
+                    "series": 1,
+                    "reps": 15,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Skipping",
+                    "zone": "cardio",
+                    "image": "skipping.png",
+                    "series": 1,
+                    "reps": 20,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Sprints cortos",
+                    "zone": "cardio",
+                    "image": "sprints_cortos.png",
+                    "series": 1,
+                    "reps": 20,
+                    "reps_unit": "min"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Kettlebell swings",
+                    "zone": "fullbody",
+                    "image": "kettlebell_swings.png",
+                    "series": 1,
+                    "reps": 25,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Burpees",
+                    "zone": "fullbody",
+                    "image": "burpees.png",
+                    "series": 1,
+                    "reps": 15,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Burpees",
+                    "zone": "fullbody",
+                    "image": "burpees.png",
+                    "series": 1,
+                    "reps": 30,
+                    "reps_unit": "min"
+                }
+            ],
+            "Día 3": [
+                {
+                    "name": "Jump lunges",
+                    "zone": "piernas",
+                    "image": "jump_lunges.png",
+                    "series": 3,
+                    "reps": 14,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Step-ups",
+                    "zone": "piernas",
+                    "image": "step_ups.png",
+                    "series": 3,
+                    "reps": 14,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Sentadillas",
+                    "zone": "piernas",
+                    "image": "sentadillas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 4": [
+                {
+                    "name": "Russian twists",
+                    "zone": "core",
+                    "image": "russian_twists.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Plancha",
+                    "zone": "core",
+                    "image": "plancha.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Plancha",
+                    "zone": "core",
+                    "image": "plancha.png",
+                    "series": 3,
+                    "reps": 14,
+                    "reps_unit": "reps"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "kasjda",
+        "objetivo": "bajar_peso",
+        "dias": 5,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Cinta de correr",
+                    "zone": "cardio",
+                    "image": "cinta_de_correr.png",
+                    "series": 1,
+                    "reps": 30,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Jumping jacks",
+                    "zone": "cardio",
+                    "image": "jumping_jacks.png",
+                    "series": 1,
+                    "reps": 15,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Mountain climbers",
+                    "zone": "cardio",
+                    "image": "mountain_climbers.png",
+                    "series": 1,
+                    "reps": 30,
+                    "reps_unit": "min"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Burpees",
+                    "zone": "fullbody",
+                    "image": "burpees.png",
+                    "series": 1,
+                    "reps": 15,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Kettlebell swings",
+                    "zone": "fullbody",
+                    "image": "kettlebell_swings.png",
+                    "series": 1,
+                    "reps": 30,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Burpees",
+                    "zone": "fullbody",
+                    "image": "burpees.png",
+                    "series": 1,
+                    "reps": 15,
+                    "reps_unit": "min"
+                }
+            ],
+            "Día 3": [
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Sentadillas",
+                    "zone": "piernas",
+                    "image": "sentadillas.png",
+                    "series": 3,
+                    "reps": 14,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Box jumps",
+                    "zone": "piernas",
+                    "image": "box_jumps.png",
+                    "series": 3,
+                    "reps": 13,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 4": [
+                {
+                    "name": "Russian twists",
+                    "zone": "core",
+                    "image": "russian_twists.png",
+                    "series": 3,
+                    "reps": 14,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Plancha",
+                    "zone": "core",
+                    "image": "plancha.png",
+                    "series": 3,
+                    "reps": 14,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Plancha",
+                    "zone": "core",
+                    "image": "plancha.png",
+                    "series": 3,
+                    "reps": 14,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 5": [
+                {
+                    "name": "Remo en máquina",
+                    "zone": "espalda",
+                    "image": "remo_en_maquina.png",
+                    "series": 3,
+                    "reps": 14,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Remo en máquina",
+                    "zone": "espalda",
+                    "image": "remo_en_maquina.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Remo en máquina",
+                    "zone": "espalda",
+                    "image": "remo_en_maquina.png",
+                    "series": 3,
+                    "reps": 14,
+                    "reps_unit": "reps"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "kasjda",
+        "objetivo": "bajar_peso",
+        "dias": 2,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Shadow boxing",
+                    "zone": "cardio",
+                    "image": "shadow_boxing.png",
+                    "series": 1,
+                    "reps": 15,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Mountain climbers",
+                    "zone": "cardio",
+                    "image": "mountain_climbers.png",
+                    "series": 1,
+                    "reps": 20,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Skipping",
+                    "zone": "cardio",
+                    "image": "skipping.png",
+                    "series": 1,
+                    "reps": 20,
+                    "reps_unit": "min"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Kettlebell swings",
+                    "zone": "fullbody",
+                    "image": "kettlebell_swings.png",
+                    "series": 1,
+                    "reps": 10,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Kettlebell swings",
+                    "zone": "fullbody",
+                    "image": "kettlebell_swings.png",
+                    "series": 1,
+                    "reps": 30,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Kettlebell swings",
+                    "zone": "fullbody",
+                    "image": "kettlebell_swings.png",
+                    "series": 1,
+                    "reps": 20,
+                    "reps_unit": "min"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "kasjda",
+        "objetivo": "bajar_peso",
+        "dias": 2,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Skipping",
+                    "zone": "cardio",
+                    "image": "skipping.png",
+                    "series": 1,
+                    "reps": 30,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Shadow boxing",
+                    "zone": "cardio",
+                    "image": "shadow_boxing.png",
+                    "series": 1,
+                    "reps": 25,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Escaladores",
+                    "zone": "cardio",
+                    "image": "escaladores.png",
+                    "series": 1,
+                    "reps": 20,
+                    "reps_unit": "min"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Kettlebell swings",
+                    "zone": "fullbody",
+                    "image": "kettlebell_swings.png",
+                    "series": 1,
+                    "reps": 10,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Burpees",
+                    "zone": "fullbody",
+                    "image": "burpees.png",
+                    "series": 1,
+                    "reps": 30,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Kettlebell swings",
+                    "zone": "fullbody",
+                    "image": "kettlebell_swings.png",
+                    "series": 1,
+                    "reps": 30,
+                    "reps_unit": "min"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "kasjda",
+        "objetivo": "bajar_peso",
+        "dias": 3,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Saltar la cuerda",
+                    "zone": "cardio",
+                    "image": "saltar_la_cuerda.png",
+                    "series": 1,
+                    "reps": 15,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Shadow boxing",
+                    "zone": "cardio",
+                    "image": "shadow_boxing.png",
+                    "series": 1,
+                    "reps": 10,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Skipping",
+                    "zone": "cardio",
+                    "image": "skipping.png",
+                    "series": 1,
+                    "reps": 30,
+                    "reps_unit": "min"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Burpees",
+                    "zone": "fullbody",
+                    "image": "burpees.png",
+                    "series": 1,
+                    "reps": 10,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Kettlebell swings",
+                    "zone": "fullbody",
+                    "image": "kettlebell_swings.png",
+                    "series": 1,
+                    "reps": 10,
+                    "reps_unit": "min"
+                },
+                {
+                    "name": "Kettlebell swings",
+                    "zone": "fullbody",
+                    "image": "kettlebell_swings.png",
+                    "series": 1,
+                    "reps": 15,
+                    "reps_unit": "min"
+                }
+            ],
+            "Día 3": [
+                {
+                    "name": "Step-ups",
+                    "zone": "piernas",
+                    "image": "step_ups.png",
+                    "series": 3,
+                    "reps": 14,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Jump lunges",
+                    "zone": "piernas",
+                    "image": "jump_lunges.png",
+                    "series": 3,
+                    "reps": 12,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Sentadillas",
+                    "zone": "piernas",
+                    "image": "sentadillas.png",
+                    "series": 3,
+                    "reps": 14,
+                    "reps_unit": "reps"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "sadqas",
+        "objetivo": "definicion",
+        "dias": 4,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Elevaciones laterales",
+                    "zone": "hombros",
+                    "image": "elevaciones_laterales.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Press militar",
+                    "zone": "hombros",
+                    "image": "press_militar.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Box jumps explosivos",
+                    "zone": "piernas",
+                    "image": "box_jumps_explosivos.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Sentadilla con salto",
+                    "zone": "piernas",
+                    "image": "sentadilla_con_salto.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 3": [
+                {
+                    "name": "Plancha con toque de hombros",
+                    "zone": "core",
+                    "image": "plancha_toque_hombros.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Bicicleta abdominal",
+                    "zone": "core",
+                    "image": "bicicleta_abdominal.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Russian twists con peso",
+                    "zone": "core",
+                    "image": "russian_twists_peso.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 4": [
+                {
+                    "name": "Mountain climbers",
+                    "zone": "cardio",
+                    "image": "mountain_climbers.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Jump rope double unders",
+                    "zone": "cardio",
+                    "image": "double_unders.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Escaladores cruzados",
+                    "zone": "cardio",
+                    "image": "escaladores_cruzados.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "sadqas",
+        "objetivo": "definicion",
+        "dias": 2,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Elevaciones laterales",
+                    "zone": "hombros",
+                    "image": "elevaciones_laterales.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Press militar",
+                    "zone": "hombros",
+                    "image": "press_militar.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Lateral bounds",
+                    "zone": "piernas",
+                    "image": "lateral_bounds.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Box jumps explosivos",
+                    "zone": "piernas",
+                    "image": "box_jumps_explosivos.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "sadqas",
+        "objetivo": "definicion",
+        "dias": 5,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Elevaciones laterales",
+                    "zone": "hombros",
+                    "image": "elevaciones_laterales.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Press militar",
+                    "zone": "hombros",
+                    "image": "press_militar.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Lateral bounds",
+                    "zone": "piernas",
+                    "image": "lateral_bounds.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Box jumps explosivos",
+                    "zone": "piernas",
+                    "image": "box_jumps_explosivos.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 3": [
+                {
+                    "name": "Plancha con toque de hombros",
+                    "zone": "core",
+                    "image": "plancha_toque_hombros.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Plank jacks",
+                    "zone": "core",
+                    "image": "plank_jacks.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Russian twists con peso",
+                    "zone": "core",
+                    "image": "russian_twists_peso.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 4": [
+                {
+                    "name": "Jump rope double unders",
+                    "zone": "cardio",
+                    "image": "double_unders.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Mountain climbers",
+                    "zone": "cardio",
+                    "image": "mountain_climbers.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Escaladores cruzados",
+                    "zone": "cardio",
+                    "image": "escaladores_cruzados.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 5": [
+                {
+                    "name": "Flexiones diamantadas",
+                    "zone": "pecho",
+                    "image": "flexiones_diamantadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Fondos en paralelas",
+                    "zone": "pecho",
+                    "image": "fondos_en_paralelas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Sentadilla con salto",
+                    "zone": "piernas",
+                    "image": "sentadilla_con_salto.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "sadqas",
+        "objetivo": "definicion",
+        "dias": 5,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Elevaciones laterales",
+                    "zone": "hombros",
+                    "image": "elevaciones_laterales.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Press militar",
+                    "zone": "hombros",
+                    "image": "press_militar.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Lateral bounds",
+                    "zone": "piernas",
+                    "image": "lateral_bounds.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Sentadilla con salto",
+                    "zone": "piernas",
+                    "image": "sentadilla_con_salto.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 3": [
+                {
+                    "name": "Plancha con toque de hombros",
+                    "zone": "core",
+                    "image": "plancha_toque_hombros.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Bicicleta abdominal",
+                    "zone": "core",
+                    "image": "bicicleta_abdominal.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Hollow holds",
+                    "zone": "core",
+                    "image": "hollow_holds.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 4": [
+                {
+                    "name": "Mountain climbers",
+                    "zone": "cardio",
+                    "image": "mountain_climbers.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Jump rope double unders",
+                    "zone": "cardio",
+                    "image": "double_unders.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Escaladores cruzados",
+                    "zone": "cardio",
+                    "image": "escaladores_cruzados.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 5": [
+                {
+                    "name": "Fondos en paralelas",
+                    "zone": "pecho",
+                    "image": "fondos_en_paralelas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Box jumps explosivos",
+                    "zone": "piernas",
+                    "image": "box_jumps_explosivos.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Flexiones diamantadas",
+                    "zone": "pecho",
+                    "image": "flexiones_diamantadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "sadqas",
+        "objetivo": "definicion",
+        "dias": 2,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Press militar",
+                    "zone": "hombros",
+                    "image": "press_militar.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Elevaciones laterales",
+                    "zone": "hombros",
+                    "image": "elevaciones_laterales.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Box jumps explosivos",
+                    "zone": "piernas",
+                    "image": "box_jumps_explosivos.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Sentadilla con salto",
+                    "zone": "piernas",
+                    "image": "sentadilla_con_salto.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Lateral bounds",
+                    "zone": "piernas",
+                    "image": "lateral_bounds.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "sadqas",
+        "objetivo": "definicion",
+        "dias": 4,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Elevaciones laterales",
+                    "zone": "hombros",
+                    "image": "elevaciones_laterales.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Press militar",
+                    "zone": "hombros",
+                    "image": "press_militar.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Box jumps explosivos",
+                    "zone": "piernas",
+                    "image": "box_jumps_explosivos.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Sentadilla con salto",
+                    "zone": "piernas",
+                    "image": "sentadilla_con_salto.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 3": [
+                {
+                    "name": "Bicicleta abdominal",
+                    "zone": "core",
+                    "image": "bicicleta_abdominal.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Plancha con toque de hombros",
+                    "zone": "core",
+                    "image": "plancha_toque_hombros.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Plank jacks",
+                    "zone": "core",
+                    "image": "plank_jacks.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 4": [
+                {
+                    "name": "Mountain climbers",
+                    "zone": "cardio",
+                    "image": "mountain_climbers.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Jump rope double unders",
+                    "zone": "cardio",
+                    "image": "double_unders.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Escaladores cruzados",
+                    "zone": "cardio",
+                    "image": "escaladores_cruzados.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "sadqas",
+        "objetivo": "definicion",
+        "dias": 4,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Press militar",
+                    "zone": "hombros",
+                    "image": "press_militar.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Elevaciones laterales",
+                    "zone": "hombros",
+                    "image": "elevaciones_laterales.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Box jumps explosivos",
+                    "zone": "piernas",
+                    "image": "box_jumps_explosivos.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Sentadilla con salto",
+                    "zone": "piernas",
+                    "image": "sentadilla_con_salto.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Lateral bounds",
+                    "zone": "piernas",
+                    "image": "lateral_bounds.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 3": [
+                {
+                    "name": "Plank jacks",
+                    "zone": "core",
+                    "image": "plank_jacks.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Hollow holds",
+                    "zone": "core",
+                    "image": "hollow_holds.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Plancha con toque de hombros",
+                    "zone": "core",
+                    "image": "plancha_toque_hombros.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 4": [
+                {
+                    "name": "Mountain climbers",
+                    "zone": "cardio",
+                    "image": "mountain_climbers.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Jump rope double unders",
+                    "zone": "cardio",
+                    "image": "double_unders.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Escaladores cruzados",
+                    "zone": "cardio",
+                    "image": "escaladores_cruzados.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "sadqas",
+        "objetivo": "definicion",
+        "dias": 2,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Elevaciones laterales",
+                    "zone": "hombros",
+                    "image": "elevaciones_laterales.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Zancadas",
+                    "zone": "piernas",
+                    "image": "zancadas.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Press militar",
+                    "zone": "hombros",
+                    "image": "press_militar.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Lateral bounds",
+                    "zone": "piernas",
+                    "image": "lateral_bounds.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Box jumps explosivos",
+                    "zone": "piernas",
+                    "image": "box_jumps_explosivos.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Sentadilla con salto",
+                    "zone": "piernas",
+                    "image": "sentadilla_con_salto.png",
+                    "series": 3,
+                    "reps": 15,
+                    "reps_unit": "reps"
+                }
+            ]
+        }
+    },
+    {
+        "usuario": "ola",
+        "objetivo": "volumen",
+        "dias": 3,
+        "rutina": {
+            "Día 1": [
+                {
+                    "name": "Chest fly",
+                    "zone": "pecho",
+                    "image": "chest_fly.png",
+                    "series": 4,
+                    "reps": 8,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Fondos en paralelas",
+                    "zone": "pecho",
+                    "image": "fondos_en_paralelas.png",
+                    "series": 4,
+                    "reps": 8,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Dips",
+                    "zone": "pecho",
+                    "image": "dips.png",
+                    "series": 4,
+                    "reps": 8,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 2": [
+                {
+                    "name": "Remo con barra",
+                    "zone": "espalda",
+                    "image": "remo_con_barra.png",
+                    "series": 4,
+                    "reps": 8,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Good mornings",
+                    "zone": "espalda",
+                    "image": "good_mornings.png",
+                    "series": 4,
+                    "reps": 8,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Remo en polea baja",
+                    "zone": "espalda",
+                    "image": "remo_en_polea_baja.png",
+                    "series": 4,
+                    "reps": 8,
+                    "reps_unit": "reps"
+                }
+            ],
+            "Día 3": [
+                {
+                    "name": "Split squat",
+                    "zone": "piernas",
+                    "image": "split_squat.png",
+                    "series": 4,
+                    "reps": 8,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Sentadilla libre",
+                    "zone": "piernas",
+                    "image": "sentadilla_libre.png",
+                    "series": 4,
+                    "reps": 8,
+                    "reps_unit": "reps"
+                },
+                {
+                    "name": "Prensa de piernas",
+                    "zone": "piernas",
+                    "image": "prensa_de_piernas.png",
+                    "series": 4,
+                    "reps": 8,
+                    "reps_unit": "reps"
+                }
+            ]
+        }
     }
 ]

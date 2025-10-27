@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Historial - FitLife</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h2>Historial de {{ usuario_nombre }}</h2>
+        {% if historial %}
+            {% for entry in historial %}
+                <div class="hist-entry">
+                    <p><strong>Objetivo:</strong> {{ entry.objetivo.replace('_', ' ').title() }}</p>
+                    <p><strong>Días:</strong> {{ entry.dias }}</p>
+                    <ul>
+                        {% for dia, ejercicios in entry.rutina.items() %}
+                            <li><strong>{{ dia }}:</strong>
+                                <ul>
+                                    {% for e in ejercicios %}
+                                        <li>{{ e }}</li>
+                                    {% endfor %}
+                                </ul>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                    <hr>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p>No hay rutinas guardadas para este usuario.</p>
+        {% endif %}
+
+        <a class="btn" href="{{ url_for('index') }}">Volver al inicio</a>
+    </div>
+</body>
+</html>
